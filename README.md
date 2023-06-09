@@ -7,7 +7,7 @@
 
 
 ## 12 Labs + Bonus Lab
-  - Lab00 : Develope Environment.
+  - Lab00 :  Develope Environment.
   - Lab01 : Chinese Course (CC.v)
   - Lab02 : 12-QUEEN (QUEEN.v)
   - Lab03 : Subway Surfers (SUBWAY.v)
