@@ -7,16 +7,16 @@
 
 
 ## 12 Labs + Bonus Lab
-  - Lab00 :  Develope Environment.
-  - Lab01 : Chinese Course (CC.v)
-  - Lab02 : 12-QUEEN (QUEEN.v)
-  - Lab03 : Subway Surfers (SUBWAY.v)
-  - Lab04 : Simple Recurrent Neural Network (NN.v)
-  - Lab05 : Matrix Multiplication to Find Trace (MMT.v)
-  - Lab06 : Elliptic Curve Group Operation (EC_TOP.v)
-  - Lab07 : Clock Domain Crossing (CDC.v)
-  - Lab08 : Siamese Neural Network (SNN.v)
-  - Lab09 : Online Shopping Platform Simulation (OS.sv)
+  - Lab00 : Develope Environment.
+  - Lab01 : Chinese Course (CC)
+  - Lab02 : 12-QUEEN (QUEEN)
+  - Lab03 : Subway Surfers (SUBWAY)
+  - Lab04 : Simple Recurrent Neural Network (NN)
+  - Lab05 : Matrix Multiplication to Find Trace (MMT)
+  - Lab06 : Elliptic Curve Group Operation (EC_TOP)
+  - Lab07 : Clock Domain Crossing (CDC)
+  - Lab08 : Siamese Neural Network (SNN)
+  - Lab09 : Online Shopping Platform Simulation (OS)
   - Lab10 : Coverage of Lab09 Online Shopping Platform Simulation
   - Lab Bonus : Formal Verification
   - Lab11 : Matrix Multiplication with Systolic Array 
