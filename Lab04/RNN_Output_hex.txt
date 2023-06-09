@@ -1,0 +1,74 @@
+[ PAT NO. 999 ]
+
+[ Layer 1 U*x ]
+
+4e078f30 baf4ae20 ccd90bd9 
+
+[ Layer 0->1 W*h ]
+
+c5c118e0 c8852df1 46c8071a 
+
+[ Layer 1 U*x+W*h ]
+
+4e078ecf c8852df1 ccd8ff59 
+
+[ Layer 1 h ]
+
+4e078ecf c6d5164f cb2d9914 
+
+[ Layer 1 V*h ]
+
+5002ad73 5a9bee0f 557233da 
+
+[ Layer 1 y ]
+
+3f800000 3f800000 3f800000 
+==============================================
+[ Layer 2 U*x ]
+
+4efc3ea0 bb6e5035 cd69c29c 
+
+[ Layer 1->2 W*h ]
+
+4bbc41c4 4e909170 d28603e8 
+
+[ Layer 2 U*x+W*h ]
+
+4eff2fa7 4e909170 d2862120 
+
+[ Layer 2 h ]
+
+4eff2fa7 4e909170 d0d69b67 
+
+[ Layer 2 V*h ]
+
+50f430e4 6040c47b dcf29f9d 
+
+[ Layer 2 y ]
+
+3f800000 3f800000 00000000 
+==============================================
+[ Layer 3 U*x ]
+
+ce95bd19 3b4127cb 4d3349a2 
+
+[ Layer 2->3 W*h ]
+
+d38e35ea d64429ca d825ac78 
+
+[ Layer 3 U*x+W*h ]
+
+d38e5b59 d64429ca d825ac75 
+
+[ Layer 3 h ]
+
+d1e3c55b d49cee3b d68489f7 
+
+[ Layer 3 V*h ]
+
+d33c3602 65ee1a25 6303b07d 
+
+[ Layer 3 y ]
+
+00000000 3f800000 3f800000 
+==============================================
