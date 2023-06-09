@@ -20,10 +20,10 @@
         - Lab Bonus : Formal Verification
         - Lab11 : Matrix Multiplication with Systolic Array 
         - Lab12 : Train Tour APRII
-       
+##
 ## Midterm_Project
         - Gray-Level Co-occurrence Matrix (GLCM)
-
+##
 
 ## Final_Project
         - Customized ISA Processor (CPU)
