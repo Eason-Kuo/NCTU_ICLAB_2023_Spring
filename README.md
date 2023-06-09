@@ -22,25 +22,11 @@
   - Lab11 : Matrix Multiplication with Systolic Array 
   - Lab12 : Train Tour APRII
    
- 
- - Lab01: Supper MOSFET Calculator (SMC)
-- Lab02: String Match Engine (SME)
-- Lab03: Sudoku (SD)
-- Lab04: Artificial Neural Network (NN)
-- Lab05: Matrix Computation (MC)
-- Lab06: CheckSum (CS)
-- Lab07: Polish Notation (PN)
-- Lab08: Series Processiong (SP)
-- Lab09: Happy Farm (HF)
-- Lab10: Coverage of Lab09 Happy Farm (HF)
-- Lab Bonus: Formal Verification
-- Lab11: Matrix Computation (MC)
-- Lab12: Artificial Neural Network APRII
 ##
 ## Midterm_Project
-        - Gray-Level Co-occurrence Matrix (GLCM)
+  - Gray-Level Co-occurrence Matrix (GLCM)
 ##
 
 ## Final_Project
-        - Customized ISA Processor (CPU)
+  - Customized ISA Processor (CPU)
 ##
