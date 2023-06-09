@@ -22,7 +22,9 @@
   - Lab11 : Matrix Multiplication with Systolic Array 
   - Lab12 : Train Tour APRII
    
-
+## Online Test
+  - Area and angles of a Triangle
+  
 ## Midterm_Project
   - Gray-Level Co-occurrence Matrix (GLCM)
 
