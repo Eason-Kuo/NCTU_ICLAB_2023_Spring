@@ -23,7 +23,7 @@
   - Lab12 : Train Tour APRII
    
 ## Online Test
-  - Area and angles of a Triangle
+  - Area and Angles of a Triangle
   
 ## Midterm_Project
   - Gray-Level Co-occurrence Matrix (GLCM)
